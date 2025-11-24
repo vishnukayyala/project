@@ -29,8 +29,8 @@ Visualize the training/validation loss and accuracy over epochs to understand th
 
 # Program:
 
-#### DEVELOPED BY:PRIYANKA K
-#### REGISTER NUMBER:212223230162
+#### DEVELOPED BY:vishnu km
+#### REGISTER NUMBER:212223240185
 ```PY
 import numpy as np
 import tensorflow as tf
